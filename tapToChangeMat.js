@@ -1,6 +1,6 @@
 // Script to 'tap to change' an object's material
 // Rewritten for Spark AR v86+ by Balraj Bains 2021
-// Original author for pre v86 currently unknown, please message for credit :)
+// Original author for pre v86 Bridget Walsh Clair :)
 
 
 
